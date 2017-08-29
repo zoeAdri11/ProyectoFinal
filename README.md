@@ -15,7 +15,7 @@ public class Coneccion {
 
 	public Coneccion() {
 
-		// Database credentials
+		//Credencial de la base de datos
 		String USER = "root";
 		String PASS = "";
 		try {
